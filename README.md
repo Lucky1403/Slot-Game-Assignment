@@ -212,7 +212,7 @@ All choices were made with WebGL in mind:
 ## 💰 Win Conditions & Payouts
 
 | Combination | Payout | 
-|---|---|---|---|
+|---|---|
 | 7️⃣ 7️⃣ 7️⃣ | 500 (JACKPOT) |
 | 🍒 🍒 🍒 | 200 |
 | 🔔 🔔 🔔 | 150 |
